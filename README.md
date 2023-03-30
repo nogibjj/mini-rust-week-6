@@ -1,5 +1,10 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# intro
+a command-line application that reads a text file and counts the number of words in it.
+
+# set up
+$ cargo build
+$ cargo run <path_to_text_file>
+
 
 ## References
 
